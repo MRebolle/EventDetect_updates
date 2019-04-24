@@ -1,1 +1,1 @@
-# EventDetect_updates
+# EventDetect_updateswritten in local PV
